@@ -14,13 +14,10 @@ const Landing = () => {
       <div className='container page'>
         <div className='info'>
           <h1>
-            job <span>tracking</span> app
+           🚀 Jobify – <span>Track jobs.</span> Land faster.
           </h1>
           <p>
-            I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-            bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-            quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-            narwhal.
+           Tired of messy spreadsheets and endless tabs? With Jobify, managing your job search has never been easier. Track every application, organize interviews, and stay on top of your career goals — all in one sleek, powerful dashboard.
           </p>
           <Link to='/register' className='btn register-link'>
             Register
