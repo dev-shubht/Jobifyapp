@@ -14,7 +14,7 @@ const Landing = () => {
       <div className='container page'>
         <div className='info'>
           <h1>
-           🚀 Jobify – <span>Track jobs.</span> Land faster.
+           🚀 Jobify–<span>Track jobs.</span>Land faster.
           </h1>
           <p>
            Tired of messy spreadsheets and endless tabs? With Jobify, managing your job search has never been easier. Track every application, organize interviews, and stay on top of your career goals — all in one sleek, powerful dashboard.
